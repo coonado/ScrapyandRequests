@@ -1,0 +1,2 @@
+# ScrapyandRequests
+Scrapy框架和Requests实现对东方财富网股票信息的爬取
